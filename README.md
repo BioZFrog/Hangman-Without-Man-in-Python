@@ -1,2 +1,2 @@
 # Hangman-Without-Man-in-Python
-Make sure to also download the Words.py :)
+Make sure to also download the words.py :)
